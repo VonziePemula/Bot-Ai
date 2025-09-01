@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-ai-pairing",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "latest",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
